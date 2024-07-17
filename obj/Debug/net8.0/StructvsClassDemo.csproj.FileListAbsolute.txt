@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\bin\Debug\net8.0\StructvsClassDemo.exe
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\bin\Debug\net8.0\StructvsClassDemo.deps.json
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\bin\Debug\net8.0\StructvsClassDemo.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\bin\Debug\net8.0\StructvsClassDemo.dll
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\bin\Debug\net8.0\StructvsClassDemo.pdb
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\StructvsClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\StructvsClassDemo.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\StructvsClassDemo.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\StructvsClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\StructvsClassDemo.dll
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\refint\StructvsClassDemo.dll
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\StructvsClassDemo.pdb
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\StructvsClassDemo.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\StructvsClassDemo\obj\Debug\net8.0\ref\StructvsClassDemo.dll
